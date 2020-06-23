@@ -1,16 +1,30 @@
-# flutterapp
+# Whatsapp clone - Flutter
 
-A new Flutter application.
+UI (non functional) clone of Whatsapp, created in flutter
+
+## Screenshots
+
+![Camera Screen](./screenshots/1.jpg)
+
+![Chats Screen](./screenshots/2.jpg)
+
+![Status Screen](./screenshots/3.jpg)
+
+![Calls Screen](./screenshots/4.jpg)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+You need Flutter in order to build this app
 
-A few resources to get you started if this is your first Flutter project:
+## Authors
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* **Lenvin Gonsalves**
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+
+This project is licensed under the MIT License 
+
+## Acknowledgments
+
+* Pavan Kumar - MTECHVIRAL
+
